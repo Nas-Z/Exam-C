@@ -1,2 +1,2 @@
 # Exam-C
-I am Taking the exam right now.
+I am not going  Taking the exam right now.
